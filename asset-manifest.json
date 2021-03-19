@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/compounding-calculator/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/compounding-calculator/static/js/main.9a9ef8a9.chunk.js",
+    "main.js.map": "/compounding-calculator/static/js/main.9a9ef8a9.chunk.js.map",
+    "runtime-main.js": "/compounding-calculator/static/js/runtime-main.4d45532a.js",
+    "runtime-main.js.map": "/compounding-calculator/static/js/runtime-main.4d45532a.js.map",
+    "static/js/2.6918dd98.chunk.js": "/compounding-calculator/static/js/2.6918dd98.chunk.js",
+    "static/js/2.6918dd98.chunk.js.map": "/compounding-calculator/static/js/2.6918dd98.chunk.js.map",
+    "static/js/3.3b207a39.chunk.js": "/compounding-calculator/static/js/3.3b207a39.chunk.js",
+    "static/js/3.3b207a39.chunk.js.map": "/compounding-calculator/static/js/3.3b207a39.chunk.js.map",
+    "index.html": "/compounding-calculator/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/compounding-calculator/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6918dd98.chunk.js.LICENSE.txt": "/compounding-calculator/static/js/2.6918dd98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d45532a.js",
+    "static/js/2.6918dd98.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9a9ef8a9.chunk.js"
+  ]
+}

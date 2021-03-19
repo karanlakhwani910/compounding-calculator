@@ -1,0 +1,44 @@
+.container{
+    width: 40%;
+    margin-top: 3%;
+    padding: 1%;
+    border: 1px solid rgb(104, 104, 104);
+    border-radius: 10px;
+}
+#display-screen{
+    height: 80px;
+    border: 1px solid rgb(104, 104, 104);
+    border-radius: 10px;
+    background-color: rgb(61, 61, 61);
+    color: white;
+}
+
+#display-screen p{
+    margin: 1% 0% 0 1% ;
+    color: rgb(129, 129, 129);
+}
+
+.answer{
+    text-align: right;
+    margin: 0% 2% 2% 0%;
+}
+
+#form-screen{
+    border: 1px solid rgb(104, 104, 104);
+    border-radius: 10px;
+    margin: 2% 0 0;
+    padding: 2%;
+}
+
+#form-screen input{
+    margin-left: 4%;
+    margin-top: 2%;
+}
+
+.btn-dark{
+    margin: 3% auto 1%;
+    
+}
+.btn{
+    margin-right: 2%;
+}
